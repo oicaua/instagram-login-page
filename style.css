@@ -1,0 +1,139 @@
+body {
+    background-color: #FAFAFA;
+}
+.general {
+    display: flex;
+    margin-top: 65px;
+    margin-left: 270px;
+}
+
+.login {
+    width: 340px;
+    height: 380px;
+    border: 1px solid lightgray;
+    margin-left: 20px;
+    align-items: center;
+    background-color: #FEFEFE;
+}
+
+.phones {
+    margin-left: 10px;
+    align-items: center;
+    margin-top: -30px;
+}
+
+.title > img {
+    height: 80px;
+    width: 110x;
+    margin-left: 70px;
+    margin-top: 13px;
+    margin-bottom: 30px;
+}
+
+.phones > img {
+    height: 600px;
+    width: 390px;
+}
+
+.email, 
+.password {
+    width: 250px;
+    margin: 0px 0px 5px 40px;
+    height: 40px;
+}
+
+::-webkit-input-placeholder {
+    font: 12px 'Segoe UI';
+    color: #BB9C9C;
+    padding-left: 4px;
+}
+
+.button-login {
+    margin-left: 40px;
+    width: 250px;
+    margin-top: 12px;
+}
+
+.ou {
+    width: 250px;
+    height: 25px;
+    margin-left: 40px;
+    margin-top: 9px;
+}
+
+.facebook-login {
+    display: inline-block;
+}
+
+.face-icon {
+    width: 15px;
+    height: 15px;
+    margin-left: 75px;
+    margin-top: -3px;
+    display: inline-block;
+}
+
+.face-text {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    display: inline-block;
+    font: 14px 'Segoe UI';
+    font-weight: bolder;
+    color: #3851A5;
+}
+
+.forgot-password {
+    color: #00376B;
+    font-size: 12px;
+    margin-left: 120px;
+}
+
+.second-part {
+    width: 340px;
+    height: 70px;
+    border: 1px solid lightgray;
+    margin-left: -1px;
+    margin-top: 30px;
+    align-items: center;
+    background-color: #FEFEFE;
+}
+
+.register {
+    font: 14px 'Segoe UI';
+    font-weight: bolder;
+    color: #63B5F8;
+    display: inline-block;
+}
+
+.text-second {
+    display: inline-block;
+    font-size: 13px;
+    margin-left: 67px;
+    margin-top: 25px;
+}
+
+.get-app {
+    font-size: 13px;
+    margin-left: 100px;
+    margin-top: 15px;
+}
+
+.appstore {
+    width: 140px;
+    height: 40px;
+    margin-bottom: 60px;
+    margin-left: 17px;
+    display: inline-block;
+}
+
+.playstore {
+    display: inline-block;
+    width: 140px;
+    height: 40px;
+    margin-bottom: 60px;
+    margin-left: 5px;
+}
+
+/* div {
+    display: inline-block;
+} */
